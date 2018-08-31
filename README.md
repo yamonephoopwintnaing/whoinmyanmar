@@ -3,7 +3,7 @@ Repo for project
 # University of Computer Studies, Mandalay
 ## A Project Report On 
 ### Python Flask Application(Who is Who in Myanmar)
-** FOR 
+* FOR 
 ## GEO MANDALAR Co.,Ltd
 ## **UNDER THE GUIDANCE OF
 ** Director **
