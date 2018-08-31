@@ -5,11 +5,11 @@ Repo for project
 ### Python Flask Application(Who is Who in Myanmar)
   FOR 
 ## GEO MANDALAR Co.,Ltd
-## **UNDER THE GUIDANCE OF
- Director 
+## UNDER THE GUIDANCE OF
+*Director 
 U Ravi Chhabra
 Supervisor
-Daw Khaing Myat Nwe
+Daw Khaing Myat Nwe*
 #### Contents
 - Abstract
 - Acknowledgement
@@ -35,9 +35,9 @@ Daw Khaing Myat Nwe
 - App Design
 - Database Implementation
 ### CHAPTER4 EVALUATION AND CONCLUSION
-4.1 Conclusion
-4.2 Advantage of project
-4.3 Disadvantages of project
-4.4 Limitations
+ - Conclusion
+ - Advantage of project
+ - Disadvantages of project
+ - Limitations
 
 
